@@ -1,0 +1,31 @@
+.bloco{
+    width: 18vw;
+    height: 10vh;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    display: block;
+    margin: 10px;
+}
+p{
+    margin-top: -6%;
+}
+#bloco-1{
+    background-color: orange;
+    color: white;
+    border: 5px solid rgb(245, 183, 69);
+}
+#bloco-2{
+    background-color: green;
+    color: #fff;
+    border: 5px solid rgb(26, 223, 26);
+}
+#bloco-3{
+    background-color: rgb(2, 90, 2);
+    color: #fff;
+    border:5px dashed rgb(6, 247, 6);
+}
+#bloco-4{
+    background-color: rgb(241, 53, 53);
+    color: #fff;
+    border:5px dashed rgb(243, 114, 114);
+}
